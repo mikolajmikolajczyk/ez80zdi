@@ -1,0 +1,27 @@
+{
+    "name": "ez80zdi",
+    "version": "1.0.0",
+    "description": "A library for the EZ80 ZDI interface",
+    "keywords": "ez80, zdi",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/mikolajmikolajczyk/ez80zdi.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Jeroen Venema",
+        "url": "https://github.com/envenomator/agon-recovery"
+      },
+      {
+        "name": "Mikołaj Mikołajczyk",
+        "email": "mikolaj@mikolajczyk.org",
+        "url": "https://mikolajczyk.org",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "*",
+    "platforms": "espressif32"
+}
